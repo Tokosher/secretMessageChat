@@ -1,0 +1,15 @@
+.display {
+    display: none;
+}
+
+.row {
+    margin-top: 25vh;
+}
+
+.central {
+    margin: auto;
+}
+
+h1 {
+    margin-top: 0;
+}
